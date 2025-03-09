@@ -1,8 +1,8 @@
 #ifndef PLAYER_H
 #define PLAYER_h
 
-#include string.h
-#include iostream
+#include <string>
+#include <iostream>
 using namespace std;
 
 class Player{

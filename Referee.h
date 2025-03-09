@@ -2,6 +2,7 @@
 #define REFEREE_H
 
 #include "Player.h"
+#include <iostream>
 
 class Referee{
     public:
